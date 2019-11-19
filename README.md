@@ -9,12 +9,8 @@ Bengkel online, di fungsikan sebagai informasi untuk pengguna yang membutuhkan b
 
 
 ### Built With
-- {{ Komponen apa saja yang dikerjakan untuk membuat aplikasi }}
-- App Visual Studio Code
-- Coding Source
-- Smartphone
-- Github
-- 
+- Stateless Widget, Stateful Widget, Column, Row, ListView, GridView, Card, BottomNavigationBar, DropdownMenuItem,
+ 
 
 ### Created By
 - Andrew Christianto
