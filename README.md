@@ -10,19 +10,24 @@ Bengkel online, di fungsikan sebagai informasi untuk pengguna yang membutuhkan b
 
 ### Built With
 - {{ Komponen apa saja yang dikerjakan untuk membuat aplikasi }}
+- App Visual Studio Code
+- Coding Source
+- Smartphone
+- Github
+- 
 
 ### Created By
 - Andrew Christianto
-    - Halaman home (2 poin)
-    - Fungsi Home (1 poin)
+    - Halaman home
+    - Fungsi Home 
+    - Search Button
 - abigael Resandi
-    - Halaman Pencarian (3 poin)
-    - Fungsi Pencarian (2 poin)
+    - List Bengkel
+    - Dropdown APP
 - Haryanto Wijaya
-    - Design Pattern BLoC (3 poin)
-    - Fungsi REST API (2 poin)
-    - Fungsi CRUD SQLite (3 poin)
-
+    - Bottom Navbar
+    - Detail Bengkel
+    
 ### Mata Kuliah 
 COE-5109 Pemprograman Mobile. 
 ### Dosen
