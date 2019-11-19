@@ -21,7 +21,7 @@ Bengkel online, di fungsikan sebagai informasi untuk pengguna yang membutuhkan b
     - Halaman home
     - Fungsi Home 
     - Search Button
-- abigael Resandi
+- Abigael Resandi
     - List Bengkel
     - Dropdown APP
 - Haryanto Wijaya
