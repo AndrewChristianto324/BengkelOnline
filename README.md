@@ -16,15 +16,17 @@ Bengkel online, di fungsikan sebagai informasi untuk pengguna yang membutuhkan b
 
 ### Created By
 - Andrew Christianto
-    - Halaman home
-    - Fungsi Home 
-    - Search Button
+    - Halaman home (10)
+    - Fungsi Home (10)
+    - Search Button (5)
 - Abigael Resandi
-    - List Bengkel
-    - Dropdown APP
+    - List Bengkel (5)
+    - Dropdown APP (10)
 - Haryanto Wijaya
-    - Bottom Navbar
-    - Detail Bengkel
+    - Bottom Navbar (5)
+    - Detail Bengkel (10)
+    
+    Total Nilai (55)
     
 ### Mata Kuliah 
 COE-5109 Pemprograman Mobile. 
